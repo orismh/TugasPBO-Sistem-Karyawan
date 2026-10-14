@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Default Project\\SistemKaryawan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCABD1A-380A-8BCE-B64F-C9BBFE63234A}|SistemKaryawan.csproj|c:\\users\\lenovo\\documents\\default project\\sistemkaryawan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCABD1A-380A-8BCE-B64F-C9BBFE63234A}|SistemKaryawan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCABD1A-380A-8BCE-B64F-C9BBFE63234A}|SistemKaryawan.csproj|c:\\users\\lenovo\\documents\\default project\\sistemkaryawan\\perusahaan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCABD1A-380A-8BCE-B64F-C9BBFE63234A}|SistemKaryawan.csproj|solutionrelative:perusahaan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCABD1A-380A-8BCE-B64F-C9BBFE63234A}|SistemKaryawan.csproj|c:\\users\\lenovo\\documents\\default project\\sistemkaryawan\\freelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCABD1A-380A-8BCE-B64F-C9BBFE63234A}|SistemKaryawan.csproj|solutionrelative:freelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perusahaan.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Default Project\\SistemKaryawan\\Perusahaan.cs",
+              "RelativeDocumentMoniker": "Perusahaan.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Default Project\\SistemKaryawan\\Perusahaan.cs",
+              "RelativeToolTip": "Perusahaan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:41:24.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Default Project\\SistemKaryawan\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Default Project\\SistemKaryawan\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:40:45.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Freelancer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Default Project\\SistemKaryawan\\Freelancer.cs",
+              "RelativeDocumentMoniker": "Freelancer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Default Project\\SistemKaryawan\\Freelancer.cs",
+              "RelativeToolTip": "Freelancer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:40:35.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
